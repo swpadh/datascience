@@ -1,0 +1,5 @@
+package graph
+
+object DetectFraud {
+  
+}
